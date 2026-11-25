@@ -34,7 +34,11 @@ basicCN <- ggplot(davisdata,aes(y=alcohol,x=Seat))
 ```{r}
 basicCN + geom_boxplot()
 ```
-  
+
+
+
+
+ The students seated in the back row are more likely to consume more alcohol, students in the middle row consume a bit of alcohol and students in the front rarely consume a lot of alcohol.
   
 
 
